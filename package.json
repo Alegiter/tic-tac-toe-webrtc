@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe-online",
+  "type": "module",
+  "scripts": {
+    "build": "bun bun.build.ts",
+    "dev": "bun bun.dev.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
